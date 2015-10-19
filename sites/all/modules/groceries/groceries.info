@@ -1,0 +1,5 @@
+name = groceries
+description = its a groceries
+package = A First Modules
+core = 7.x
+files[] = groceries.module

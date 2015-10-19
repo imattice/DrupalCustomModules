@@ -1,0 +1,5 @@
+name = specials
+description = is a specials
+package = A First Modules
+core = 7.x
+files[] = specials.module

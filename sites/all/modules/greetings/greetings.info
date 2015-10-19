@@ -1,0 +1,5 @@
+name = greetings
+description = it's a greetings
+package = A First Modules
+core = 7.x
+files[] = greetings.module
